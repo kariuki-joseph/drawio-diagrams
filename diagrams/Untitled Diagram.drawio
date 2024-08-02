@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="izLVnv7lBoGsd2MbyICW">
-    <mxGraphModel dx="2083" dy="1203" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1282" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,7 +248,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y_LsZwWBNOfJoLUkH_yc-14" value="&lt;b&gt;Multi-Session USSDs&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="305" y="736" width="140" height="30" as="geometry" />
+          <mxGeometry x="310" y="736" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y_LsZwWBNOfJoLUkH_yc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y_LsZwWBNOfJoLUkH_yc-15" target="Y_LsZwWBNOfJoLUkH_yc-19">
           <mxGeometry relative="1" as="geometry" />
@@ -307,33 +307,33 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y_LsZwWBNOfJoLUkH_yc-35" value="Create USSD" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1016" width="70" height="70" as="geometry" />
+          <mxGeometry x="320" y="1016" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Y_LsZwWBNOfJoLUkH_yc-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y_LsZwWBNOfJoLUkH_yc-36" target="Y_LsZwWBNOfJoLUkH_yc-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y_LsZwWBNOfJoLUkH_yc-36" value="Enter Offer Name and USSD" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="415" y="1021" width="120" height="60" as="geometry" />
+          <mxGeometry x="445" y="1021" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y_LsZwWBNOfJoLUkH_yc-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y_LsZwWBNOfJoLUkH_yc-38" target="Y_LsZwWBNOfJoLUkH_yc-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y_LsZwWBNOfJoLUkH_yc-38" value="Upload to Server" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="615" y="1021" width="120" height="60" as="geometry" />
+          <mxGeometry x="645" y="1021" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y_LsZwWBNOfJoLUkH_yc-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y_LsZwWBNOfJoLUkH_yc-40">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1035" y="1051" as="targetPoint" />
+            <mxPoint x="1065" y="1051" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y_LsZwWBNOfJoLUkH_yc-40" value="Update Site Link" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="815" y="1021" width="120" height="60" as="geometry" />
+          <mxGeometry x="845" y="1021" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y_LsZwWBNOfJoLUkH_yc-42" value="&lt;b&gt;END&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="1006" width="80" height="80" as="geometry" />
+          <mxGeometry x="1035" y="1006" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y_LsZwWBNOfJoLUkH_yc-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Creating a Multi-Session USSD&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="946" width="230" height="30" as="geometry" />
+          <mxGeometry x="310" y="946" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
